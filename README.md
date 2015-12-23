@@ -3,6 +3,7 @@ This is a collection of resources related to Functional and Reactive Programming
 
 ## What is FRP?
 * [The introduction to Reactive Programming you've been missing by @andrestaltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+* [An introcution to Reactive Programming by RecurseCenter](https://codewords.recurse.com/issues/two/an-introduction-to-reactive-programming)
 
 ## Libraries
 * [RxJS - A reactive programming library for JavaScript](https://github.com/ReactiveX/RxJS)
@@ -20,3 +21,7 @@ This is a collection of resources related to Functional and Reactive Programming
 * [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
 * [What if the user was a function? by Andre Staltz at JSConf Budapest 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4)
 * [Cycle.js and functional reactive user interfaces | Andre Staltz | Reactive 2015](https://www.youtube.com/watch?v=uNZnftSksYg)
+* 
+## Tutorials 
+* [FP in JavaScript & RxJS](http://reactivex.io/learnrx/)
+* [Egghead's Intro to Reactive Programming (paid)](https://egghead.io/series/introduction-to-reactive-programming)
