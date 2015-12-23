@@ -21,7 +21,8 @@ This is a collection of resources related to Functional and Reactive Programming
 * [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
 * [What if the user was a function? by Andre Staltz at JSConf Budapest 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4)
 * [Cycle.js and functional reactive user interfaces | Andre Staltz | Reactive 2015](https://www.youtube.com/watch?v=uNZnftSksYg)
-* 
+
+ 
 ## Tutorials 
-* [FP in JavaScript & RxJS](http://reactivex.io/learnrx/)
+* [Functional Programming in JavaScript & RxJS](http://reactivex.io/learnrx/)
 * [Egghead's Intro to Reactive Programming (paid)](https://egghead.io/series/introduction-to-reactive-programming)
