@@ -14,3 +14,8 @@ This is a collection of resources related to Functional and Reactive Programming
 
 ## Articles
 * [A Collection of Items Over Time (Observables)](https://medium.com/@kahlil/a-collection-of-items-over-time-d1ef68143e98)
+
+## Talks
+* [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
+* [What if the user was a function? by Andre Staltz at JSConf Budapest 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4)
+* [Cycle.js and functional reactive user interfaces | Andre Staltz | Reactive 2015](https://www.youtube.com/watch?v=uNZnftSksYg)
