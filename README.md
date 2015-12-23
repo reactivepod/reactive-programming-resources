@@ -14,6 +14,7 @@ This is a collection of resources related to Functional and Reactive Programming
 
 ## Articles
 * [A Collection of Items Over Time (Observables)](https://medium.com/@kahlil/a-collection-of-items-over-time-d1ef68143e98)
+* [Why I chose Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.6a50ns9av)
 
 ## Talks
 * [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
