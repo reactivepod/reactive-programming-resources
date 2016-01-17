@@ -9,6 +9,8 @@ This is a collection of resources related to Functional and Reactive Programming
 * [RxJS - A reactive programming library for JavaScript](https://github.com/ReactiveX/RxJS)
 * [Bacon.js - A small functional reactive programming lib for JavaScript](https://baconjs.github.io/)
 * [HIGHLAND - The high-level streams library for Node.js and the browser](http://highlandjs.org/)
+* [Most - Monadic streams for reactive programming](https://github.com/cujojs/most)
+* [Stream Conversions - Convert between different stream implementations](https://github.com/TylorS/stream-conversions)
 
 ## Frameworks
 * [Cycle.js - A functional and reactive JavaScript framework for cleaner code](http://cycle.js.org/)
